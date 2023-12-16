@@ -1,4 +1,4 @@
-var dateName = new Date([2023,12,13])
+var dateName = new Date()
 
 var year = dateName.getFullYear();
 var month = dateName.getMonth() +1;
