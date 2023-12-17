@@ -3,6 +3,5 @@ function square(number) {
     return result;
   }
 
-var result = square(5);
-console.log(result);
+console.log(square(5));
   
